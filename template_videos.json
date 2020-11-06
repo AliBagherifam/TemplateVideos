@@ -1,17 +1,17 @@
 [
   {
     "id": "bEaAH4BI5Ah3s9LW8f",
-    "title": "ویدیوی شماره 1",
+    "title": "خرگوش بزرگ",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
-    "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_big_buck_bunny.mp4",
     "isLiked": false,
     "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 89
   },
   {
     "id": "bVV7Nwp4jRLABD8fpz",
-    "title": "ویدیوی شماره 2",
-    "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_peaky_blinders.PNG",
+    "title": "پیکی بلایندرز",
+    "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_peaky_blinders.png",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_peaky_blinders.mp4",
     "isLiked": true,
     "createdAt": "2011-08-12T20:17:46.384Z",
@@ -19,7 +19,7 @@
   },
   {
     "id": "v1jPZtByRiKpytfvYs",
-    "title": "ویدیوی شماره 3",
+    "title": "مجلس ختم بیل کلینتون",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_trump_obama.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_trump_obama.mp4",
     "isLiked": false,
@@ -28,7 +28,7 @@
   },
   {
     "id": "zBsIAvaHanuUjVXP6h",
-    "title": "ویدیوی شماره 4",
+    "title": "پلیس کثیف",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_family_guy.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_family_guy.mp4",
     "isLiked": false,
@@ -37,7 +37,7 @@
   },
   {
     "id": "XygQ0AEZQ13hViNSvL",
-    "title": "ویدیوی شماره 5",
+    "title": "برجام را خدا آورد...",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_batman_ben.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_batman_ben.mp4",
     "isLiked": true,
@@ -46,7 +46,7 @@
   },
   {
     "id": "igmeKPEoGYn2lQ9CAX",
-    "title": "ویدیوی شماره 6",
+    "title": "کنسرت یگانه",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_spongebob.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_spongebob.mp4",
     "isLiked": false,
@@ -55,7 +55,7 @@
   },
   {
     "id": "sYZo528DUSWwS0kaTr",
-    "title": "ویدیوی شماره 7",
+    "title": "لاتیش خعلی پره",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_kid_iki_osan.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_kid_iki_osan.mp4",
     "isLiked": false,
@@ -64,7 +64,7 @@
   },
   {
     "id": "jhTHFg5I2xUelrmYC9",
-    "title": "ویدیوی شماره 8",
+    "title": "هری پاتر و آیینه جادویی",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_animal_gorilla.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_animal_gorilla.mp4",
     "isLiked": false,
@@ -73,18 +73,18 @@
   },
   {
     "id": "H51ZalpfXM4AtbTBYJ",
-    "title": "ویدیوی شماره 9",
+    "title": "خرگوش بزرگ",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.PNG",
-    "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_peaky_blinders.mp4",
+    "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_big_buck_bunny.mp4",
     "isLiked": true,
     "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 118
   },
   {
     "id": "KypaoSfacX65LVEqLf",
-    "title": "ویدیوی شماره 10",
+    "title": "خرگوش بزرگ",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.PNG",
-    "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_peaky_blinders.mp4",
+    "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_big_buck_bunny.mp4",
     "isLiked": false,
     "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 57
