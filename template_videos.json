@@ -4,6 +4,8 @@
     "title": "ویدیوی شماره 1",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 89
   },
   {
@@ -11,6 +13,8 @@
     "title": "ویدیوی شماره 2",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_peaky_blinders.PNG",
     "url": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/video_peaky_blinders.mp4",
+    "isLiked": true,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 11
   },
   {
@@ -18,6 +22,8 @@
     "title": "ویدیوی شماره 3",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 24
   },
   {
@@ -25,6 +31,8 @@
     "title": "ویدیوی شماره 4",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 92
   },
   {
@@ -32,6 +40,8 @@
     "title": "ویدیوی شماره 5",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": true,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 178
   },
   {
@@ -39,6 +49,8 @@
     "title": "ویدیوی شماره 6",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 71
   },
   {
@@ -46,6 +58,8 @@
     "title": "ویدیوی شماره 7",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 129
   },
   {
@@ -53,6 +67,8 @@
     "title": "ویدیوی شماره 8",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 80
   },
   {
@@ -60,6 +76,8 @@
     "title": "ویدیوی شماره 9",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": true,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 118
   },
   {
@@ -67,6 +85,8 @@
     "title": "ویدیوی شماره 10",
     "thumbnailUrl": "https://raw.githubusercontent.com/AliBagherifam/TemplateVideos/main/thumbnail_big_buck_bunny.png",
     "url": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+    "isLiked": false,
+    "createdAt": "2011-08-12T20:17:46.384Z",
     "likeCount": 57
   }
 ]
